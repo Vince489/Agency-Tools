@@ -16,6 +16,14 @@
   "author": "Vincent M. Cornelius II",
   "license": "MIT",
   "description": "A collection of utility tools for the Agency project.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Vince489/Agency-Tools"
+  },
+  "bugs": {
+    "url": "https://github.com/Vince489/Agency-Tools/issues"
+  },
+  "homepage": "https://github.com/Vince489/Agency-Tools#readme",
   "dependencies": {
     "cheerio": "^0.22.0",
     "mathjs": "^11.9.0",
