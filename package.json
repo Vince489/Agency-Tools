@@ -1,0 +1,25 @@
+{
+  "name": "@virtron/agency-tools",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"No tests yet\""
+  },
+  "keywords": [
+    "agency",
+    "tools",
+    "utility",
+    "javascript",
+    "npm"
+  ],
+  "author": "Vincent M. Cornelius II",
+  "license": "MIT",
+  "description": "A collection of utility tools for the Agency project.",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "mathjs": "^11.9.0",
+    "luxon": "^3.4.1",
+    "node-fetch": "^3.3.2"
+  }
+}
