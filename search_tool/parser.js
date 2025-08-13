@@ -1,5 +1,5 @@
 //  HTML parsing using Cheerio, with focus on robustness
-import * as cheerio from 'cheerio';
+import cheerio from 'cheerio';
 import { cleanWhitespace } from './utils.js';
 import { maxContentLength } from './config.js';
 
